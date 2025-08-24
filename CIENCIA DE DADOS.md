@@ -1,5 +1,3 @@
-Claro, farei essa alteração para você. Aqui está o relatório atualizado com todas as citações no formato (autor, ano).
-
 # A Ciência de Dados: Fundamentos, Tecnologias e Fronteiras de Pesquisa
 
 ## Parte I: Fundamentos da Disciplina de Dados
